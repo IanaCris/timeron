@@ -1,0 +1,16 @@
+.wrapper {
+  height: 100vh;
+  width: 100%;
+  background: #5965E0 url('/icons/simbol-moveit.svg') no-repeat center left;
+  background-size: contain;
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.container {
+  height: 100vh;
+  width: 100%;
+  padding: 2.5rem 2rem;
+}
