@@ -12,6 +12,7 @@ export default function Login() {
       <div className={styles.container}>
         <img src="icons/logo-moveit.svg" alt="Logo"/>
         <img src="icons/github.svg" alt="Git"/>
+        <img src="icons/entry.svg" alt="Entry"/>
         
       </div>
     </div>    
